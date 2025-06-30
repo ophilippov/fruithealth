@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/Source/" />
+  <Folder Name="/Source/Application/">
+    <Project Path="Source/Application/FruitHealth/FruitHealth.csproj" />
+  </Folder>
+  <Folder Name="/Source/Domain/">
+    <Project Path="Source/Domain/FruitHealth.Abstractions/FruitHealth.Abstractions.csproj" />
+  </Folder>
+  <Folder Name="/Source/Infrastructure/">
+    <Project Path="Source/Infrastructure/FruitHealth.FruityVice.Client/FruitHealth.FruityVice.Client.csproj" />
+  </Folder>
+  <Folder Name="/Source/WebApi/">
+    <Project Path="Source/WebApi/FruitHealth.Api/FruitHealth.Api.csproj" />
+  </Folder>
+  <Folder Name="/Tests/" />
+  <Folder Name="/Tests/Domain/">
+    <Project Path="Tests/Domain/FruitHealth.Abstractions.UnitTests/FruitHealth.Abstractions.UnitTests.csproj" />
+  </Folder>
+</Solution>
