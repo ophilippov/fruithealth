@@ -31,7 +31,7 @@ The app is hosted on: http://localhost:5116
 #### 📝 Description
 
 Returns **fruits with their health scores** ordered by health score, descending.  
-Fruits are filtered by specifying minimum and/or maximum sugar content using the `sugarMin` and `sugarMax` query parameters.
+Fruits are filtered by specifying minimum and maximum sugar content using the `sugarMin` and `sugarMax` query parameters.
 
 #### 🔗 Endpoint
 ```
